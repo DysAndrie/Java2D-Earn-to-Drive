@@ -1,0 +1,44 @@
+75 21 32 32
+// The first line should contain the width and height of the
+// map and the width and height of each tile. A list of character to
+// tile mappings is then provided where each character is preceded by a
+// # character. The dot character always defaults to a blank space 
+// Note that the referenced files should be in the same directory as the
+// tile map.
+#q=cement.png
+#t=trap.png
+#b=brick.png
+#c=concrete.png
+#m=metal_beam.png
+#s=spikes.png
+#v=void.jpg
+#f=banner.png
+#g=goldgear.png
+#j=car.png
+#w=window.png
+#p=portal.png
+#h=start.png
+#r=car2.png
+#map
+...........................................................................
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c.........................................................................c
+c.........................................................................c
+c.........................................................................c
+c.........................................................................c
+c.........................................................................c
+c........wwwww.........................................................m..c
+c.............m..........................................qqq....qqq.......c
+c...bb..........ww......................................q.................c
+c.................m....................................q...........bbb....c
+c......bb..........www...............................qqq....ssss..........c
+c.........bb......................cccc....cccc............................c
+c.....................m.....bbbbbbbbbb.........bbbbbbbb...................c
+c..............................................................r........q.c
+cqqqf..................qqqqq...........................wwwww.......wwwwwwwc
+c.ww................m.........................................m............
+c..w.h......bbbbbbbb.......................................................
+c..w.....q.................................................................
+ccccccwbwcccccccccccccttttttttttttssssstttttccccccccccccccccccccccccccccccc
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
